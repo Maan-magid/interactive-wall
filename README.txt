@@ -1,4 +1,4 @@
-# Interactive Wall
+## Interactive Wall
 
 ## Overview
 This project presents a low-cost interactive wall system that allows users to control presentation slides using hand gestures instead of a mouse or keyboard. The system uses a webcam to track the user's hand and maps finger movements to screen regions, enabling:
